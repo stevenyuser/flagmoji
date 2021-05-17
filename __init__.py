@@ -1,2 +1,2 @@
-from lookup import byCode
-from lookup import byName
+from flagmoji import byCode
+from flagmoji import byName
