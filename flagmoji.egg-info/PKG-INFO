@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: flagmoji
+Version: 1.0
+Summary: Converts a country code or country name into a flag emoji
+Home-page: UNKNOWN
+Author: Steven Yu
+Author-email: stevenyuser@gmail.com
+License: UNKNOWN
+Description: A Python package that converts a country code or country name into a flag emoji.
+Keywords: python,flagmoji,emoji flag converter
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
