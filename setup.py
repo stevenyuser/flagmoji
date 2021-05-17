@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1.1'
+VERSION = '1.1.1'
 DESCRIPTION = 'Converts a country code or country name into a flag emoji'
 LONG_DESCRIPTION = 'A Python package that converts a country code or country name into a flag emoji.'
 
@@ -11,6 +11,7 @@ setup(
         author_email="stevenyuser@gmail.com",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
+        url = "https://github.com/stevenyuser/flagmoji",
         packages=find_packages(),
         install_requires=[],
 
