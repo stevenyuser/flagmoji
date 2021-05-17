@@ -1,7 +1,7 @@
 Flagmoji
 -----------
 
-A Python package that converts a flag code or country name into a country's flag emoji.
+A Python package that converts a country code or country name into a country's flag emoji.
 
 Heavily inspired by: [Jonathan Kosgei's Emoji Flags](https://github.com/jonathan-kosgei/emoji-flags)
  - Differs by allowing country name as well
