@@ -7,7 +7,7 @@ Heavily inspired by: [Jonathan Kosgei's Emoji Flags](https://github.com/jonathan
  - Differs by allowing country name as well
 
 Previously known as: [Emoji Flag Converter](https://github.com/stevenyuser/emoji-flag-converter)
- 
+
 Install
 ```
 pip install flagmoji
