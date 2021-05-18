@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-flagmoji.egg-info/PKG-INFO
-flagmoji.egg-info/SOURCES.txt
-flagmoji.egg-info/dependency_links.txt
-flagmoji.egg-info/requires.txt
-flagmoji.egg-info/top_level.txt
